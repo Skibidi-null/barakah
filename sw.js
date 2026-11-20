@@ -1,6 +1,6 @@
 // Offline: app shell on install; content files (surahs, hadith collections) cached when first opened.
 // DATA is the content version: bump it when tools/export.py output changes, so nobody keeps old texts.
-const V = 'barakah-20261121003823';
+const V = 'barakah-20261121004707';
 const DATA = 'barakah-data-14';
 const SHELL = ['./', 'index.html', 'app.js', 'style.css', 'manifest.webmanifest', 'icons/icon-180.png', 'icons/icon-192.png', 'icons/icon-512.png', 'fonts/spacegrotesk.ttf', 'fonts/jetbrainsmono.ttf', 'fonts/naskh.ttf',
   'data/quran/index.json', 'data/duas.json', 'data/misc.json', 'data/refs.json', 'data/reciters.json', 'data/quran/1.json', 'data/quran/simple/1.json'];
